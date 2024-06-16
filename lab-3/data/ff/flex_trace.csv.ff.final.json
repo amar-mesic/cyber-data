@@ -1,26 +1,23 @@
 {
 	"types" : [
-"1",
 "0"
 	],
 	"alphabet" : [
-"1.0",
-"0.0",
-"2.0"
+"1.0"
 	],
 	"nodes" : [
 		{
 			"id" : -1,
 			"source" :  -1,
-			"label" : "fin: 0:1915 ,  path: 0:19150 , ",
-			"size" : 21065,
+			"label" : "fin: 0:1 ,  path: 0:10 , ",
+			"size" : 11,
 			"level" : 0,
 			"style" : "",
 			"isred" :  1,
 			"issink" :  0,
 			"isblue" :  0,
 			"trace" :  "0 0",
-			"data" :  {"final_counts":{"0":1915},"path_counts":{"0":19150},"symbol_counts":null,"total_final":1915,"total_paths":19150,"trans_counts":{"0.0":"47","1.0":"32","2.0":"19071"}}
+			"data" :  {"final_counts":{"0":1},"path_counts":{"0":10},"symbol_counts":null,"total_final":1,"total_paths":10,"trans_counts":{"1.0":"10"}}
 		}
 	],
 	"edges" : [
@@ -29,20 +26,6 @@
 			"source" : "-1",
 			"target" : "-1",
 			"name": "1.0",
-			"appearances": ""}
-,
-		{
-			"id" : "-1_-1",
-			"source" : "-1",
-			"target" : "-1",
-			"name": "0.0",
-			"appearances": ""}
-,
-		{
-			"id" : "-1_-1",
-			"source" : "-1",
-			"target" : "-1",
-			"name": "2.0",
 			"appearances": ""}
 
 	]
