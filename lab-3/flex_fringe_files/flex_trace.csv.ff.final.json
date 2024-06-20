@@ -1,0 +1,57 @@
+{
+	"types" : [
+"1",
+"0"
+	],
+	"alphabet" : [
+"5.0",
+"0.0",
+"2.0",
+"1.0"
+	],
+	"nodes" : [
+		{
+			"id" : -1,
+			"source" :  -1,
+			"label" : "fin: 0:2006 ,  path: 0:20060 , ",
+			"size" : 22066,
+			"level" : 0,
+			"style" : "",
+			"isred" :  1,
+			"issink" :  0,
+			"isblue" :  0,
+			"trace" :  "0 0",
+			"data" :  {"final_counts":{"0":2006},"path_counts":{"0":20060},"symbol_counts":null,"total_final":2006,"total_paths":20060,"trans_counts":{"0.0":"25","1.0":"19964","2.0":"29","5.0":"42"}}
+		}
+	],
+	"edges" : [
+		{
+			"id" : "-1_-1",
+			"source" : "-1",
+			"target" : "-1",
+			"name": "5.0",
+			"appearances": ""}
+,
+		{
+			"id" : "-1_-1",
+			"source" : "-1",
+			"target" : "-1",
+			"name": "0.0",
+			"appearances": ""}
+,
+		{
+			"id" : "-1_-1",
+			"source" : "-1",
+			"target" : "-1",
+			"name": "2.0",
+			"appearances": ""}
+,
+		{
+			"id" : "-1_-1",
+			"source" : "-1",
+			"target" : "-1",
+			"name": "1.0",
+			"appearances": ""}
+
+	]
+}

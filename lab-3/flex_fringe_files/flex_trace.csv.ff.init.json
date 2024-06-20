@@ -1,0 +1,30 @@
+{
+	"types" : [
+"1",
+"0"
+	],
+	"alphabet" : [
+"5.0",
+"0.0",
+"2.0",
+"1.0"
+	],
+	"nodes" : [
+		{
+			"id" : -1,
+			"source" :  -1,
+			"label" : "fin:  path: 0:2006 , ",
+			"size" : 2006,
+			"level" : 0,
+			"style" : "",
+			"isred" :  1,
+			"issink" :  0,
+			"isblue" :  0,
+			"trace" :  "0 0",
+			"data" :  {"path_counts":{"0":2006},"symbol_counts":null,"total_final":0,"total_paths":2006,"trans_counts":{"0.0":"1","1.0":"1996","2.0":"4","5.0":"5"}}
+		}
+	],
+	"edges" : [
+
+	]
+}
